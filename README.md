@@ -9,8 +9,8 @@ Como apasionado por compartir conocimiento, he impartido clases de diseño de in
 
 ### 🧐 Más sobre mi:
 
-- 🔭 &nbsp; Actualmente soy coach en [\<Laboratoria\>](https://www.laboratoria.la/)
-- 🌱 &nbsp; Me encuentro especializándome en gestión de proyectos
+- 🔭 &nbsp; Actualmente soy Frontend Frelancer 
+- 🌱 &nbsp; Me encuentro especializándome como PM y product owner
 - 👨🏻‍💻 &nbsp; Puedes consultar los proyectos en los que he participado en [Github](https://github.com/JuanCarlosHM?tab=repositories)
 - 📫 &nbsp; ¿Dudas? Puedes encontrarme en  [linkedin](https://www.linkedin.com/in/jc-code/)
 
